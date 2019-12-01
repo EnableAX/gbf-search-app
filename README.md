@@ -20,7 +20,7 @@ TwitterAPIキー
 
 ## 使用方法
 
-gbf-search-app.exe を他ソフト同様に実行してください。
+gbf-search-app.exe が入っているフォルダごと任意の場所にコピーしgbf-search-app.exeを実行してください。
 
 
 1. MenuボタンからTwitter APIキー情報の入力をしOKボタンを押す(次回以降入力の必要はありません)
