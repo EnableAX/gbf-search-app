@@ -10,6 +10,10 @@ python環境の入っていないパソコンでも使用できるようにな�
 
 win7(python環境無し)でも起動及び動作確認しました。 
 
+開発環境=win10,python3.7.4
+
+py2exeを使用しpython3.4.4でexe書き出しをしました
+
 ## 必要なもの
 
 TwitterAPIキー
